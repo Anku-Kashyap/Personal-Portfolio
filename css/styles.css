@@ -1,0 +1,131 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    text-align: justify;
+    margin: 0;
+    background: #fcdaa7;
+}
+
+
+/*--------------------------- Title Section */
+
+.container-fluid {
+    padding: 2% 15%;
+}
+
+#title {
+    background: white;
+}
+
+nav {
+    position: fixed;
+    top: 0;
+    color: white;
+}
+
+h5 {
+    color: black;
+}
+
+.nav-item {
+    font-family: 'Poppins', sans-serif;
+    margin: 2%;
+    font-size: large;
+    text-size-adjust: auto;
+    color: #fd9103;
+}
+
+.title-img {
+    width: 100%;
+}
+
+.downloadbtn {
+    margin: 20px 20px 20px 0;
+    background: #f89616;
+}
+
+.row {
+    display: flex;
+    padding: 8% 0;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.text {
+    padding: 14% 0 0 26%;
+}
+
+.col-lg-6 h5 {
+    line-height: 1;
+    color: black;
+    margin-bottom: 25px;
+}
+
+th,
+td {
+    padding: 5px;
+    vertical-align: top;
+}
+
+
+/* AboutMe Section */
+
+#about,
+#roles {
+    padding: 3% 20%;
+}
+
+.mypic {
+    width: 90%;
+    margin: 0 auto 0 auto;
+}
+
+.likepic {
+    width: 10%;
+    float: right;
+    position: absolute;
+    left: 55%;
+    bottom: 54%;
+}
+
+#projects {
+    background: white;
+    padding: 3% 20% 2% 20%;
+}
+
+#user {
+    position: relative;
+    background: white;
+    padding: 4% 30% 4% 30%;
+    margin: 3%;
+}
+
+.social {
+    color: #fd9103;
+}
+
+.pic1 {
+    width: 100%;
+    margin-bottom: 10%;
+}
+
+.intro {
+    text-align: center;
+}
+
+#contact {
+    background: white;
+    padding: 2% 40% 1% 40%;
+    text-align: center;
+    color: black;
+}
+
+.social-icon {
+    color: #fd9103;
+    margin: 10px;
+}
+
+a {
+    display: inline-flex;
+}
